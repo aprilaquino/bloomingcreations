@@ -23,8 +23,8 @@ i{
 }
 */
 img{
-	width:350px;
-	height: 450px;
+	width:300px;
+	height: 400px;
 	padding: 10px;
 	margin-left: auto;
 	margin-right: auto;
@@ -35,7 +35,7 @@ img{
 .caption{
  padding-bottom: 10%;
  color:red;
- font-family: "Comic Sans MS", sans-serif;
+ font-family: "Comic Sans MS";
 }
 
 .jumbotron{
